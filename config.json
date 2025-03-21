@@ -1,12 +1,12 @@
 {
     "delay": {
-        "min": 0.1,
-        "max": 0.2
+        "min": 20,
+        "max": 80
     },
     "break": {
         "min": 900,
         "max": 3600,
-        "probability": 0.001
+        "probability": 0.01
     },
     "accounts": {},
     "log_level": "INFO",
