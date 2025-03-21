@@ -139,7 +139,7 @@ The installer handles all dependencies automatically:
 1. **Installation**
    - Windows: Run `run.bat`
    - macOS/Linux: Execute `run.sh`
-2. **Setup**: Enter Instagram credentials when prompted
+2. **Setup**: Add Instagram Account, then provide your login credentials, and then start the unliking process
 3. **Operation**: Follow the interactive dashboard
 4. **Monitoring**: Track progress in real-time
 
