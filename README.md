@@ -94,6 +94,7 @@ The installer handles all dependencies automatically:
 ## 🌐 Configuration
 
 ### Basic Settings
+![image](https://github.com/user-attachments/assets/f35c9e79-f483-464f-b3df-773461ddf603)
 ```json
 {
     "delay": {
