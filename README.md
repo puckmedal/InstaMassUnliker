@@ -60,6 +60,15 @@ A powerful and free open-source Instagram automation tool for managing your digi
 
 ## 🚀 Quick Start Guide
 
+### Prerequisites
+1. **Export Your Instagram Data**
+   - Go to Instagram Settings > Privacy and Security > Data Download
+   - Request "Download Data" in JSON format
+   - Wait for Instagram's email (can take up to 48 hours)
+   - Download and extract the ZIP file
+   - Locate `liked_posts.json` in the extracted files
+   - Copy `liked_posts.json` to the InstaMassUnliker folder
+
 ### Windows Users
 ```bash
 1. Download & Extract
