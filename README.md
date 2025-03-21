@@ -13,7 +13,7 @@
 
 </div>
 
-![image](https://github.com/user-attachments/assets/4eac32b7-6d74-42ce-b161-ca43c1d14158)
+![image](https://github.com/user-attachments/assets/d5357ad1-20a3-45ef-bc5e-142c83147e6b)
 
 
 ## 📑 Table of Contents
