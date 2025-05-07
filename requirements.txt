@@ -1,0 +1,6 @@
+psutil
+tqdm
+colorama
+requests
+ensta
+moviepy==1.0.3
